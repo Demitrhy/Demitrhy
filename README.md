@@ -1,14 +1,14 @@
 #  I'm Gustavo Teles  
 
-💻 Full Stack Developer passionate about building robust applications and solving real-world problems through technology and constantly improving my skills in React, JavaScript, C#, .Net, TypeScript, SQL among other frameworkse bibliotecas.
+💻 Full-stack developer passionate about building robust applications, solving real-world problems through technology, and constantly improving my skills in React, JavaScript, TypeScript, C#, .NET, and other frameworks and libraries.
+
+📚 Always seeking continuous learning to deliver scalable, clean, and efficient solutions.
 
 🚀 My main stack:  
 - **Back-end**: C#, .NET, SQL Server  
 - **Front-end**: JavaScript, TypeScript, React
 - **SQL**: SQL server, MySql, PostgreSQL
-
-📚 Always learning and improving to deliver scalable, clean and efficient solutions.  
-
+- 
 ---
 
 ## 🔧 Tech Skills 
