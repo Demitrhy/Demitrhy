@@ -1,16 +1,34 @@
-## Hi there 👋
+#  I'm Gustavo Teles  
 
-<!--
-**Demitrhy/Demitrhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer passionate about building robust applications and solving real-world problems through technology and constantly improving my skills in React, JavaScript, C#, .Net, TypeScript, SQL among other frameworkse bibliotecas.
 
-Here are some ideas to get you started:
+🚀 My main stack:  
+- **Back-end**: C#, .NET, SQL Server  
+- **Front-end**: JavaScript, TypeScript, React
+- **SQL**: SQL server, MySql, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Always learning and improving to deliver scalable, clean and efficient solutions.  
+
+---
+
+## 🔧 Tech Skills 
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+
+---
+
+## 🌱 Currently learning  
+- Cloud & DevOps practices (Docker, Kubernetes, Azure)  
+- Advanced patterns in .NET and React  
+
+---
+
+## 📫 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavotelesdev/)  
+
+
