@@ -20,15 +20,4 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
----
-
-## 🌱 Currently learning  
-- Cloud & DevOps practices (Docker, Kubernetes, Azure)  
-- Advanced patterns in .NET and React  
-
----
-
-## 📫 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavotelesdev/)  
-
 
