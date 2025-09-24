@@ -8,7 +8,7 @@
 - **Back-end**: C#, .NET, SQL Server  
 - **Front-end**: JavaScript, TypeScript, React
 - **SQL**: SQL server, MySql, PostgreSQL
-- 
+  
 ---
 
 ## 🔧 Tech Skills 
