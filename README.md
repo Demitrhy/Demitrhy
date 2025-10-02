@@ -5,9 +5,9 @@
 📚 Always seeking continuous learning to deliver scalable, clean, and efficient solutions.
 
 🚀 My main stack:  
-- **Back-end**: C#, .NET, SQL Server  
-- **Front-end**: JavaScript, TypeScript, React
-- **SQL**: SQL server, MySql, PostgreSQL
+- **Back-end**: C#, .NET.  
+- **Front-end**: JavaScript, TypeScript, React.
+- **SQL**: SQL server, MySql, PostgreSQL.
   
 ---
 
