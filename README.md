@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Gustavo Teles! 👋
 
-<!--
-**Demitrhy/Demitrhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor Full-Stack de Fortaleza, Ceará, apaixonado por tecnologia e por resolver problemas através de código. Tenho forte foco no desenvolvimento de sistemas web completos e também possuo grande interesse na área de design de interfaces, estudando Interação Humano-Computador (IHC), usabilidade e metodologias ágeis (Scrum e XP).
 
-Here are some ideas to get you started:
+### 🛠️ Minhas Habilidades e Tecnologias
+*   **Front-end:** React, TypeScript, JavaScript
+*   **Back-end:** C#, PHP
+*   **Bancos de Dados:** SQL Server, PostgreSQL
+*   **Conceitos:** UI/UX Design, Heurísticas de Nielsen, APIs RESTful
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Principais Projetos
+
+*   🏋️‍♂️ **Fit-Verse:** Sistema para academias focado na experiência do usuário, permitindo a pesquisa de exercícios por grupo muscular e cálculo de IMC.
+*   📦 **Sistema de Cadastro:** Plataforma Full-Stack para gerenciamento de estoque, controlando o registro de produtos, fornecedores e armazéns.
+*   🎮 **PVP-GAMES:** Uma interface web no estilo loja de jogos (similar à Steam), implantada e acessível via GitHub Pages.
+*   🧾 **API de Integração SEFAZ (C#):** Desenvolvimento de backend para download e processamento de dados XML de NF-e, incluindo o manuseio de certificados digitais e cálculos de impostos locais.
+*   📅 **MarcaAi:** Plataforma inteligente de agendamento online para salões e barbearias.
+
+### 📫 Como entrar em contato comigo:
+- **LinkedIn:** [in/gustavotelesdev](https://linkedin.com/in/gustavotelesdev)
+- **E-mail:** gustavo.teless2023@gmail.com
+
+---
+⭐️ *Construindo software com código limpo e foco na experiência do usuário.*
