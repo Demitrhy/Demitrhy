@@ -13,7 +13,6 @@ Sou um desenvolvedor Full-Stack de Fortaleza, Ceará, apaixonado por tecnologia 
 *   🏋️‍♂️ **Fit-Verse:** Sistema para academias focado na experiência do usuário, permitindo a pesquisa de exercícios por grupo muscular e cálculo de IMC.
 *   📦 **Sistema de Cadastro:** Plataforma Full-Stack para gerenciamento de estoque, controlando o registro de produtos, fornecedores e armazéns.
 *   🎮 **PVP-GAMES:** Uma interface web no estilo loja de jogos (similar à Steam), implantada e acessível via GitHub Pages.
-*   🧾 **API de Integração SEFAZ (C#):** Desenvolvimento de backend para download e processamento de dados XML de NF-e, incluindo o manuseio de certificados digitais e cálculos de impostos locais.
 *   📅 **MarcaAi:** Plataforma inteligente de agendamento online para salões e barbearias.
 
 ### 📫 Como entrar em contato comigo:
