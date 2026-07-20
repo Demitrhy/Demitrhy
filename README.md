@@ -14,6 +14,7 @@ Sou um desenvolvedor Full-Stack de Fortaleza, Ceará, apaixonado por tecnologia 
 *   📦 **Sistema de Cadastro:** Plataforma Full-Stack para gerenciamento de estoque, controlando o registro de produtos, fornecedores e armazéns.
 *   🎮 **PVP-GAMES:** Uma interface web no estilo loja de jogos (similar à Steam), implantada e acessível via GitHub Pages.
 *   📅 **MarcaAi:** Plataforma inteligente de agendamento online para salões e barbearias.
+*   💸 **MeuBolso:** O MeuBolso ajuda você a enxergar, num lugar só, quanto ganha, quanto gasta, o que já pagou, o que ainda falta pagar no mês e quanto tempo falta pra realizar um sonho (como comprar um MacBook). Simples, bonito e no estilo do iOS.
 
 ### 📫 Como entrar em contato comigo:
 - **LinkedIn:** [in/gustavotelesdev](https://linkedin.com/in/gustavotelesdev)
